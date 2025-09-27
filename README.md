@@ -40,7 +40,6 @@ Text colors: Orange, green, blue, purple, etc. for section headings
 
 Table styling: Alternating row background colors for better readability
 
-Text formatting: <strong>, <em>, <ins>, <del> used for bold, italic, underline, and strikethrough.
 
 📝 Notes
 The project demonstrates basic HTML concepts.
